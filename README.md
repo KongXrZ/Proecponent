@@ -1,2 +1,2 @@
-# Proecponent
+# Proexponent
 Web app naja
